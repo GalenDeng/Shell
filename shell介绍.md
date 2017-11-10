@@ -201,7 +201,7 @@ $ ./test.sh 1 2 3
 3
 ```
 20. `特殊字符表`
-![特殊字符]()
+* ![特殊字符](https://github.com/GalenDeng/Shell/blob/master/shell%E7%9A%84%E7%89%B9%E6%AE%8A%E5%AD%97%E7%AC%A6.png)
 21. `Shell数组`
 * 数组中可以存放多个值。Bash Shell 只支持一维数组 初始化时不需要定义数组大小
 * 读取数组元素值的一般格式： ${array_name[index]}
