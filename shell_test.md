@@ -29,7 +29,7 @@ echo "result 为： $result"
 -n  字符串	字符串的长度不为零则为真
 ```
 4. `文件测试`
-* ![文件测试参数]()
+* ![文件测试参数](https://github.com/GalenDeng/Shell/blob/master/%E6%96%87%E4%BB%B6%E6%B5%8B%E8%AF%95.png)
 * 示例
 ```
 cd /bin
