@@ -23,7 +23,7 @@ Hello, Shell
 printf "%s and %d \n" 
 ```
 3. `转义字符表`
-![转义字符表](https://github.com/GalenDeng/Shell/blob/master/printf%E7%9A%84%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6.png)
+* ![转义字符表](https://github.com/GalenDeng/Shell/blob/master/printf%E7%9A%84%E8%BD%AC%E4%B9%89%E5%AD%97%E7%AC%A6.png)
 4. `格式替代符详解`
 ```
 %d %s %c %f 格式替代符详解:
