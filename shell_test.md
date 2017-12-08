@@ -56,3 +56,7 @@ fi
 输出结果：
 有一个文件存在!
 ```
+## `数值测试`
+![数值测试](https://github.com/GalenDeng/Shell/blob/master/%E6%95%B0%E5%80%BC%E6%B5%8B%E8%AF%95.JPG)
+## `字符串测试`
+![字符串测试](https://github.com/GalenDeng/Shell/blob/master/%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%B5%8B%E8%AF%95.JPG)
